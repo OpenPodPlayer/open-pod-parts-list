@@ -12,4 +12,4 @@ An open-source media player device, with an iPod soul inside. Powered by a Pi Ze
 | Waveshare UPS HAT (1000mAh) | Battery + portable power | The Pi Hut | £25.90 | https://thepihut.com/products/uninterruptible-power-supply-ups-hat-for-raspberry-pi-zero?variant=39964725969091 |
 | Raspberry Pi 64GB microSD Card | Storage | The Pi Hut | £14.90 | https://thepihut.com/products/noobs-preinstalled-sd-card?variant=31604721287230 |
 | USB-C to microUSB OTG Adapter | Data + charging | Raspberry Pi | £1.00 | https://thepihut.com/products/micro-usb-male-to-usb-c-female-adapter?variant=42773391671491 |
-| **Total** |   |   | **£90.00** |
+| **Total** |   |   | **£92.58** |
