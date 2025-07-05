@@ -1,6 +1,6 @@
 # OpenPod 1
 
-An open-source media player device, with an iPod soul inside. Powered by a Pi Zero 2W, it runs full Linux, with a black and white OLED display, custom softawre, and a 1000mAh battery!
+An open-source media player device, with an iPod-like soul inside. Powered by a Pi Zero 2W, it runs full Linux, with a black and white OLED display, custom software, and a 1000mAh battery!
 
 ## Parts List
 
