@@ -6,7 +6,7 @@ An open-source media player device, with an iPod soul inside. Powered by a Pi Ze
 
 | Component | Description | Source | Price (GBP) | URL |
 |----------|-------------|--------|-------------|---|
-| Raspberry Pi Zero 2 W (with Headers)| Main board | The Pi Hut | £16.98 | https://thepihut.com/products/raspberry-pi-zero-2?variant=43855634497731 |
+| Raspberry Pi Zero 2 W (with Headers)| Main board (header variant **very** hard to get in stock)| The Pi Hut | £16.98 | https://thepihut.com/products/raspberry-pi-zero-2?variant=43855634497731 |
 | Pimoroni DAC SHIM | Line-out audio | Pimoroni | £13.20 | https://thepihut.com/products/audio-dac-shim-line-out?variant=37998187708611 |
 | Adafruit 128x64 OLED Bonnet | UI + buttons | The Pi Hut | £21.60 | https://thepihut.com/products/adafruit-128x64-oled-bonnet-for-raspberry-pi-ada3531?variant=36183766737 |
 | Waveshare UPS HAT (1000mAh) | Battery + portable power | The Pi Hut | £25.90 | https://thepihut.com/products/uninterruptible-power-supply-ups-hat-for-raspberry-pi-zero?variant=39964725969091 |
